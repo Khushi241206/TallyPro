@@ -1,0 +1,7 @@
+{
+  "name": "TallyPro Accounting",
+  "description": "A comprehensive, modern accounting application inspired by Tally, featuring ledger management, daybooks, stock tracking, and advanced analytics.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
